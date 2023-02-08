@@ -1,0 +1,6 @@
+The dataset used in the project is downloaded from KAGGLE.
+
+Link to Dataset : https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
+
+The download file is just 30MB.
+But the size of the CSV file when extracted exceeds 78MB of datasize.
